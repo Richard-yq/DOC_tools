@@ -8,11 +8,11 @@
 使用方式
 覆蓋原檔案：
 ```
-python fixdoc.py input.txt
+python no-endl-inWord.py input.txt
 ```
 儲存到新檔案：
 ```
-python fixdoc.py input.txt output.txt
+python no-endl-inWord.py input.txt output.txt
 ```
 程式特色
 ✅ 錯誤處理：檢查檔案是否存在
